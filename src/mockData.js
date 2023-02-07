@@ -11,7 +11,7 @@ const mockData = [
             },
             {
                 id: uuidv4(),
-                title: "Estudiar ReactJS"
+                title: "Estudiar Python"
             },
             {
                 id: uuidv4(),
@@ -25,11 +25,11 @@ const mockData = [
         task: [
             {
                 id: uuidv4(),
-                title: "Estudiar Flutter"
+                title: "Curso de ReactJS"
             },
             {
                 id: uuidv4(),
-                title: "Estudiar ReactJS"
+                title: "Curso de MongoDB"
             }
         ]
     },
