@@ -20,4 +20,4 @@
 
 ## Tecnología
 
-[Se ha usado ReactJS, SCSS y una pequeña base de datos con JavaScript para almacenar las tareas]
+[Se ha usado ReactJS, SCSS, una pequeña base de datos con JavaScript para almacenar las tareas y la librería de NPM 'react-beautiful-dnd']
